@@ -1,0 +1,32 @@
+Drill report for /Users/jonlauriello/Desktop/projects/circuits/RAMPS-FD3/RAMPS-FD.kicad_pcb
+Created on Friday, April 08, 2016 'AMt' 02:22:55 AM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'RAMPS-FD.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (438 holes)
+    T2  0.80mm  0.032"  (18 holes)
+    T3  0.81mm  0.032"  (4 holes)
+    T4  1.00mm  0.039"  (3 holes)
+    T5  1.02mm  0.040"  (222 holes)
+    T6  1.20mm  0.047"  (34 holes)
+    T7  1.27mm  0.050"  (6 holes)
+    T8  1.40mm  0.055"  (14 holes)
+    T9  3.17mm  0.125"  (4 holes)
+    T10  3.78mm  0.149"  (3 holes)
+
+    Total plated holes count 746
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T11  3.80mm  0.150"  (1 hole)
+
+    Total unplated holes count 1
